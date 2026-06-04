@@ -1,6 +1,12 @@
-# Hi, I'm Kanishka! 👋
+# Hi 👋, I'm Kanishka
 
-Here is a quick link to see my work:
+💻 Frontend Developer
+🌱 Learning JavaScript & UI/UX
+🚀 Building animated websites
+📍 India
 
-[![Portfolio](https://kittuarya7986-star.github.io/Codewithkanishka/)
-  
+## Skills
+HTML • CSS • JavaScript • Git • GitHub
+
+## Connect With Me
+Instagram: @codewithkanishka
