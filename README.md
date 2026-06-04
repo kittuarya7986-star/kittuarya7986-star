@@ -1,1 +1,1 @@
-https://github.com/kittuarya7986-star/Codewithkanishka
+https://kittuarya7986-star.github.io/Codewithkanishka/
